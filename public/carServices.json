@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 101,
+    "name": "Oil Change",
+    "price": 250,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero voluptatem quam quas quasi corrupti!",
+    "image": "https://i.ibb.co/YDChMKS/tim-mossholder-V37i-Tr-YZz2-E-unsplash.jpg"
+  },
+  {
+    "_id": 102,
+    "name": "Car Wash",
+    "price": 100,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vitae molestiae sed fugiat adipisci ducimus quo rem nemo eaque natus explicabo ipsa eveniet assumenda quasi dolor reprehenderit _id esse, ullam beatae. Doloremque tenetur minus, omnis quibusdam sequi blanditiis similique nobis, quae quam esse cup_iditate. Accusantium!",
+    "image": "https://i.ibb.co/vH606Fm/image-20150331-1231-1ttwii6.jpg"
+  },
+  {
+    "_id": 103,
+    "name": "Wheel Alignment",
+    "price": 220,
+    "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic, beatae! Quisquam distinctio eveniet ducimus sapiente, culpa placeat, illo illum ipsum voluptatibus cup_iditate tempore asperiores cumque voluptates repellat accusamus facere prov_ident vel quam impedit possimus magni, ",
+    "image": "https://i.ibb.co/bLp8Byc/alignment-scaled.jpg"
+  },
+  {
+    "_id": 104,
+    "name": "car engine diagnostic",
+    "price": 250,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque fuga impedit placeat, quasi eaque, odio, explicabo doloremque sed fugiat nesciunt accusamus rem maxime prov_ident doloribus cup_iditate at dolorum in. Quis.",
+    "image": "https://i.ibb.co/6bcYyvG/hands-of-car-mechanic-working-in-auto-repair-service-picture-_id693170166-k-20-m-693170166-s-612x612.jpg"
+  },
+  {
+    "_id": 105,
+    "name": "New tires",
+    "price": 450,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque doloribus vel dolorem magni nemo accusamus nam alias doloremque ullam maxime placeat, obcaecati nisi consequuntur, laborum eveniet ratione molestias eius voluptate?",
+    "image": "https://i.ibb.co/QNhcJqf/listing-main-New-Tires-1.jpg"
+  }
+]

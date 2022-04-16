@@ -1,0 +1,11 @@
+.customImage{
+    /* height: 350px; */
+}
+
+.textColor > h3{
+    color: brown;
+}
+
+.textColor > p{
+    color: darkred;
+}
